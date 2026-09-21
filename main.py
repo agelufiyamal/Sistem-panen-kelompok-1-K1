@@ -5,7 +5,7 @@ from diskon import hitung_diskon
 
 def main():
     print("========================================")
-    print("   SISTEM PENCATAT HASIL PANEN DIGITAL")
+    print("Sistem Pencatat Hasil Panen - Malah dan Tivani")
     print("========================================")
 
     data_panen = input_data_panen()
