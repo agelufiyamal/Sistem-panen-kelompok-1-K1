@@ -31,6 +31,7 @@ Program ini juga dapat menampilkan laporan hasil panen serta menghitung harga, d
 
 ```bash
 python main.py
+```
 
 ## 👥 Anggota Kelompok
 
