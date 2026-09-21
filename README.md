@@ -42,4 +42,3 @@ python main.py
 ## 🛠️ Deskripsi Program
 
 Aplikasi Python ini digunakan untuk mencatat transaksi penjualan komoditas panen, menghitung potongan diskon berdasarkan besaran subtotal, serta mencetak laporan/struk transaksi akhir secara otomatis.
-# Sistem-panen-kelompok-1-K1
